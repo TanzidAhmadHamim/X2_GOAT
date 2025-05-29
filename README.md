@@ -1,4 +1,4 @@
-<video src="https://drive.usercontent.google.com/u/0/uc?id=1bREJD53O2nwKZF64dKHYVycGykfXqLme&export=download">
+
 <h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px">   X2𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
 <!-- Github README -->
 
